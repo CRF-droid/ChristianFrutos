@@ -17,12 +17,10 @@ Otros: Reparación de PC y celulares, lógica de programación, trabajo en equip
 
 Gestión de Ventas (C# .NET) – Registro de productos, control de stock y cálculo de ganancias por quincena y semana.
 
-[Agrega otro proyecto aquí] – Breve descripción de qué hace y tecnologías usadas.
-
 Próximamente agregaré más proyectos de práctica y personales para demostrar habilidades en desarrollo web y software.
 
 📫 Contacto
 
-LinkedIn
+www.linkedin.com/in/christian-frutos-305182b1
 
-[Correo] (agregar tu email profesional si querés)
+christian_2211@hotmail.com
