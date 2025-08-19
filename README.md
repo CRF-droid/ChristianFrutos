@@ -5,7 +5,7 @@ Apasionado por el desarrollo de software, la tecnología y la creación de soluc
 
 🛠 Tecnologías y Skills
 
-Lenguajes: C#, JavaScript
+Lenguajes: C#, C++
 
 Frameworks: .NET
 
